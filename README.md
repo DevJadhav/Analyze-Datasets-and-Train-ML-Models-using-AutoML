@@ -1,39 +1,18 @@
-# Analyze-Datasets-and-Train-ML-Models-using-AutoML
+# Practical Data Science on the AWS Cloud Specialization
+Welcome to the GitHub repository for the **"Practical Data Science on the AWS Cloud Specialization."** This repository is dedicated to providing course materials, resources, and instructions for participants who aim to master data science techniques using AWS cloud technologies.
 
-This repository contains the course materials for "Analyze Datasets and Train ML Models using AutoML" offered by DeepLearning.AI and Amazon Web Services (AWS). This course is the first part of the Practical Data Science Specialization on Coursera.
+## What You'll Learn
+This specialization covers a comprehensive range of topics essential for advancing your skills in data science and machine learning on the cloud. Here's what you can expect to learn:
 
+**Data Preparation and Analysis:** Learn how to prepare data and detect statistical biases. Engage in feature engineering at scale to facilitate efficient model training.
+**Model Training and Evaluation:** Gain proficiency in using AutoML for training, evaluating, and tuning models. Learn to manage ML features with a feature store and handle tasks related to debugging, profiling, tuning, and evaluating models while maintaining traceability of data lineage and model artifacts.
+**ML Pipelines:** Develop skills to build, deploy, monitor, and operationalize end-to-end machine learning pipelines. This includes understanding how to maintain the efficiency and effectiveness of the deployed models over time.
+**Human-in-the-Loop Pipelines:** Learn to construct data labeling and human-in-the-loop pipelines to leverage human intelligence for enhancing model performance and accuracy.
 
-**Course Description**
+## Course Details
+The modules included in this specialization are:
 
-This course equips you with foundational concepts in:
+**Analyze Datasets and Train ML Models using AutoML:** This course provides the foundational skills needed to analyze datasets effectively and utilize AutoML for training machine learning models.
+**Build, Train, and Deploy ML Pipelines using BERT:** Dive deep into the utilization of BERT (Bidirectional Encoder Representations from Transformers) for natural language processing tasks within ML pipelines.
+**Optimize ML Models and Deploy Human-in-the-Loop Pipelines:** Learn advanced techniques for optimizing machine learning models and integrating human judgment into ML workflows to improve outcomes.
 
-* Exploratory Data Analysis (EDA)
-* Automated Machine Learning (AutoML)
-* Text Classification Algorithms
-
-You'll leverage Amazon SageMaker tools like:
-
-* **Clarify** - Analyze datasets for statistical bias.
-* **Data Wrangler** - Transform data into machine-readable formats and select relevant features.
-* **Autopilot** - Automate machine learning tasks like training, tuning, and deployment for text classification.
-* **BlazingText** - Train text classifiers with minimal coding using a highly-optimized FastText implementation.
-
-The course emphasizes practical data science using the cloud's agility and scalability to handle massive datasets. You'll learn to develop and deploy end-to-end machine learning pipelines on AWS SageMaker, encompassing both automated and manual approaches.
-
-**Target Audience**
-
-This specialization is designed for individuals with experience in Python and SQL who are interested in:
-
-* Data-focused developers
-* Scientists
-* Analysts
-
-You'll gain the skills to build, train, and deploy scalable machine learning pipelines in the AWS cloud.
-
-**Prerequisites**
-
-* Familiarity with Python and SQL programming languages.
-
-**Getting Started**
-
-This repository contains the course materials, but enrollment in the Coursera specialization is recommended for a complete learning experience, including video lectures, quizzes, and hands-on labs.
